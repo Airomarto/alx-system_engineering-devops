@@ -16,4 +16,4 @@ Task 13 - 'chgrp school hello 'to change group to school for the file 'hello'
 Task 14 - 'chown vincent:staff *' to change owner vincent to group owner staff
 Task 15 - 'chown _hello:vincent,staff *' to change owner and group owner of _hello to vincent and staff
 Task 16 - 'chown --from=guillaume betty hello' to change the owner of hello to betty only if its owned by guillaumei
-Task 17 - 'vlc StarWars IV' to play StarWars IV from terminal
+Task 17 - 'telnet towel.blinkenlights.nl' to play StarWars IV from terminal
