@@ -18,4 +18,7 @@ Task 15 - This moves all files beginning with an upper case to directory /tmp/u
 Task 16 - This deletes all files ending with ~
 Task 17 - This creates directories welcome/, welcome/to, welcome/to/school
 Task 18 - The command is 'ls -pamv' where p is to seperate the directory with '/'. where a is to list all contents including directories starting with '.', 
-where m is to seperate all contents with a comma(,), and v to list all digits first 
+where m is to seperate all contents with a comma(,), and v to list all digits first
+Task 19 - 0 string SCHOOL School data
+!:mime School
+then type file -C -m school.mgc (this converts the file 'school.mgc' to a magic file 
