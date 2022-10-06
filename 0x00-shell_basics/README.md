@@ -15,3 +15,4 @@ Task 12 - This prints the type of file named iamafile which is in /tmp directory
 Task 13 - This is to create a symbolic link to /bin/ls named __ls__ and the symbolic link should be created in the current directory
 Task 14 - This copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 Task 15 - This moves all files beginning with an upper case to directory /tmp/u
+Task 16 - This deletes all files ending with ~
