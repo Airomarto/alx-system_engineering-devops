@@ -10,3 +10,4 @@ Task 7 - This is to move the file betty from /tmp/ to /tmp/my_first_directory
 Task 8 - This is to delete betty from /tmp/my_first_directory
 Task 9 - This is to delete my_first_directory from /tmp directory
 Task 10 - This is to change working directory to the previous one
+Task 11 - This is to list all files (even the ones beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the /boot directory (in ths order) in long format
