@@ -14,3 +14,4 @@ Task 11 - command that adds execute permission to all subdirectories of the curr
 Task 12 - command to mkdir and set permissions 751 is' mkdir -m 751 my_dir'
 Task 13 - 'chgrp school hello 'to change group to school for the file 'hello'
 Task 14 - 'chown vincent:staff *' to change owner vincent to group owner staff
+Task 15 - 'chown _hello:vincent,staff *' to change owner and group owner of _hello to vincent and staff
