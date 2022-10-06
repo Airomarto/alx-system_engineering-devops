@@ -12,4 +12,5 @@ Task 9 - The command to change the permission of hello to -rwxr-x-wx is chmod 75
 Task 10 - The command to copy permissions from olleh to hello 'chmod --reference=olleh hello'
 Task 11 - command that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed 'chmod a+X *'
 Task 12 - command to mkdir and set permissions 751 is' mkdir -m 751 my_dir'
-Task 13 -c 'hgrp school hello 'to change group to school for the file 'hello'
+Task 13 - 'chgrp school hello 'to change group to school for the file 'hello'
+Task 14 - 'chown vincent:staff *' to change owner vincent to group owner staff
