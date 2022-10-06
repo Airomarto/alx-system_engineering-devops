@@ -17,5 +17,5 @@ Task 14 - This copies all the HTML files from the current working directory to t
 Task 15 - This moves all files beginning with an upper case to directory /tmp/u
 Task 16 - This deletes all files ending with ~
 Task 17 - This creates directories welcome/, welcome/to, welcome/to/school
-Task 18 - THis command is to list all the directories and files seperated by a comma, to list all directories starting with the (.), to be alpha orded except for directories  . .. which should be listed at the beginning and only digits and letters are used to sort, digits should come first
-
+Task 18 - The command is 'ls -pamv' where p is to seperate the directory with '/'. where a is to list all contents including directories starting with '.', 
+where m is to seperate all contents with a comma(,), and v to list all digits first 
