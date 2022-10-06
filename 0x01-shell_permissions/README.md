@@ -9,3 +9,4 @@ Task 6 - The command 'chmod ug+x,o+r hello' to add exedcute permission to owner 
 Task 7 - The command 'chmod ugo+x hello' to add execute permission to owner , group owner and other users
 Task 8 - The command 'chmod 007 hello' to change permission of owner and group owner to no permission and to change permission of other users to all permissions
 Task 9 - The command to change the permission of hello to -rwxr-x-wx is chmod 753 hello
+Task 10 - The command to copy permissions from olleh to hello
