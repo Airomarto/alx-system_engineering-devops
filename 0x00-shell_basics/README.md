@@ -16,3 +16,4 @@ Task 13 - This is to create a symbolic link to /bin/ls named __ls__ and the symb
 Task 14 - This copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
 Task 15 - This moves all files beginning with an upper case to directory /tmp/u
 Task 16 - This deletes all files ending with ~
+Task 17 - This creates directories welcome/, welcome/to, welcome/to/school
