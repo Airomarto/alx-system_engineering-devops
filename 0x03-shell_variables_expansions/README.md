@@ -11,3 +11,4 @@ Task 8 - "echo $(($TRUEKNOWLEDGE + 128))" to print the result of additionj of 12
 Task 9 - "echo $(($POWER / $DIVIDE))" to display the result of POWER divided by DIVIDE followed by a new line
 Task 10 - "echo $(($BREATH ** $LOVE))" to display the result of BREATH to the power of LOVE
 Task 11 - "echo $((2#$BINARY))" to convert a number from base 2 to base 10
+Task 12 - "echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"" to display prints all possible combinations of two letters, except oo, Letters are lower cases, from a to z, One combination per line, The output should be alpha ordered, starting with aa and dont print oo
