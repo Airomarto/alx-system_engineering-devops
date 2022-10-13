@@ -5,5 +5,5 @@ Task 2 - "export PATH="$PATH:/action" to add the directory action to directory P
 Task 3 - "echo $PATH | tr ":" "\n" | wc -l" to count the number of directories in PATH
 Task 4 - "printenv" to display list of environment variables
 Task 5 - "set" to display the list of local, environment variables and functions
-Task 6 - "BEST="School" to create a local variable
-
+Task 6 - "BEST="School"" to create a local variable
+Task 7 - "BEST=School" to create a global variable
