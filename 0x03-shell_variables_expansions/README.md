@@ -8,3 +8,4 @@ Task 5 - "set" to display the list of local, environment variables and functions
 Task 6 - "BEST="School"" to create a local variable
 Task 7 - "BEST=School" to create a global variable
 Task 8 - "echo $(($TRUEKNOWLEDGE + 128))" to print the result of additionj of 128 with the value stored in an environment variable TRUEKNOWLEDGE
+Task 9 - "echo $(($POWER / $DIVIDE))" to display the result of POWER divided by DIVIDE followed by a new line
